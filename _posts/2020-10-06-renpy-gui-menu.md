@@ -1,5 +1,5 @@
 ---
-title: [렌파이] 게임 메뉴 GUI
+title: 렌파이 게임 메뉴 GUI
 author: 션짱구
 date: 2020-10-06 01:30:00 +0900
 categories: [IT, Renpy]
