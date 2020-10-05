@@ -1,10 +1,9 @@
 ---
 title: 렌파이 게임 메뉴 GUI
-author: 션짱구
+author: 션짱
 date: 2020-10-06 01:30:00 +0900
 categories: [IT, Renpy]
 tags: [renpy, game]     # TAG names should always be lowercase
-toc: true
 ---
 이번 포스팅은 렌파이 [렌파이 카페 비모에 정리된 글](https://cafe.naver.com/vmo/1472)을 바탕으로 재구성하였다.
 
