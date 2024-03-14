@@ -7,14 +7,14 @@ date: 2024-03-14 16:00:00 +0900
 image: /assets/img/me.jpg
 ---
 
-## Basic Information
+## Seohyun Choi
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="image_file_path" alt="Profile Picture" style="border-radius: 50%;" width="200">
+    <img src="/assets/img/me.jpg" alt="Profile Picture" style="border-radius: 50%;" width="200">
   </div>
   <div style="flex: 3;">
+  세상에는 재밌는게 너무 많다. 배움은 나의 도파민.<br/><br/>
       <ul>
-      <li><strong>Name:</strong> Seohyun Choi</li>
       <li><strong>Contact:</strong> choish91_gmail_com</li>
       <li><strong>Address:</strong> Suwon, Gyeonggi, South Korea</li>
     </ul>
