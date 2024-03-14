@@ -34,7 +34,8 @@ _**M.S.**_ in Industrial Management and Systems Engineering, Kyung Hee Universit
 
 ## Experience
 ---
-**Netmarble Corp.** Seoul, South Korea (02.2016-09.2018)
+**Netmarble Corp.** Seoul, South Korea (02.2016-09.2018)  
+A South Korean game publishing company and ranked third in global mobile app publisher, 2017, according to App Annie
 - _Business Intelligence Developer_
   - Developed and reported KPIs and dashboards
   - Designed schema of game log and data warehouse
