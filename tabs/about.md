@@ -13,7 +13,7 @@ image: /assets/img/me.jpg
     <img src="/assets/img/me.jpg" alt="Profile Picture" style="border-radius: 50%;" width="200">
   </div>
   <div style="flex: 3;">
-  <h2>Seohyun Choi</h2>
+  <h2><strong>Seohyun Choi</strong></h2>
   세상에는 재밌는게 너무 많다. 배움은 나의 도파민.<br/>
       <ul>
       <li><strong>Contact:</strong> choish91_gmail_com</li>
