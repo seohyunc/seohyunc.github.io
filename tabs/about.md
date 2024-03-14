@@ -26,25 +26,22 @@ image: /assets/img/me.jpg
 
 ## Education
 ---
-**Ph.D. Candidate** in Big Data Analytics, Kyung Hee University (03.2021-Present)  
-- sss
-
-**M.S.** in Industrial Management and Systems Engineering, Kyung Hee University (03.2014-02.2016)  
-- **Thesis:** A Process Mining Technique based on Bayesian Networks for Inference of Probabilistic Event Patterns
-  
-**B.S.** in Industrial Management and Systems Engineering, Kyung Hee University (03.2010-02.2014)
+_**Ph.D. Candidate**_ in Big Data Analytics, Kyung Hee University (03.2021-Present)  
+_**M.S.**_ in Industrial Management and Systems Engineering, Kyung Hee University (03.2014-02.2016)  
+&nbsp;&nbsp;&nbsp;&nbsp;(Thesis: A Process Mining Technique based on Bayesian Networks for Inference of Probabilistic Event Patterns)  
+**B.S.**_ in Industrial Management and Systems Engineering, Kyung Hee University (03.2010-02.2014)
 
 
 ## Experience
 ---
 **Netmarble Corp.** Seoul, South Korea (02.2016-09.2018)
-- Business Intelligence Developer
+- _Business Intelligence Developer_
   - Developed and reported KPIs and dashboards
   - Designed schema of game log and data warehouse
   - Managed 5 MSSQL Severs: data backup, storage management, and data migration
   - Established a rule-based process to detect dummy users and abusers earning game money abnormally
   - Tested data quality
-- Data Analyst
+- _Data Analyst_
   - Designed/developed machine learning models to predict paying users with AUC of 87%
   - Desgined, evaluated and reported 10 A/B tets of in-app marketing campaigns concurrently 
 
