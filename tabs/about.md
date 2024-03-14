@@ -8,7 +8,15 @@ image: /assets/img/me.jpg
 ---
 
 ## Seohyun Choi
-![Me](/assets/img/me.jpg)
+<img style="
+border: 3px solid gold;
+border-radius: 7px;
+-moz-border-radius: 7px;
+-khtml-border-radius: 7px;
+-webkit-border-radius: 7px;
+"
+src="/assets/img/me.jpg" align="center" width="200">
+<!-- ![Me](/assets/img/me.jpg) -->
 
 ---
 
