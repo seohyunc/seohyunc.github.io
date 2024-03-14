@@ -7,13 +7,14 @@ date: 2024-03-14 16:00:00 +0900
 image: /assets/img/me.jpg
 ---
 
-## **Seohyun Choi**
+<!-- ## **Seohyun Choi** -->
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="/assets/img/me.jpg" alt="Profile Picture" style="border-radius: 50%;" width="200">
   </div>
   <div style="flex: 3;">
-  세상에는 재밌는게 너무 많다. 배움은 나의 도파민.<br/><br/>
+  <h2>Seohyun Choi</h2>
+  세상에는 재밌는게 너무 많다. 배움은 나의 도파민.<br/>
       <ul>
       <li><strong>Contact:</strong> choish91_gmail_com</li>
       <li><strong>Address:</strong> Suwon, Gyeonggi, South Korea</li>
