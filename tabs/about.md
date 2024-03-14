@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 author: Seohyun Choi
 date: 2024-03-14 16:00:00 +0900
 # categories: [Blogging, Demo]
