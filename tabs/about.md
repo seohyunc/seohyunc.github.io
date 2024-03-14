@@ -53,7 +53,7 @@ image: /assets/img/me.jpg
 ---
 - Python, MSSQL, Google BigQuery, Java, R, MicroStrategy MSTR
 
----
+
 
 ## Awards
 ---
