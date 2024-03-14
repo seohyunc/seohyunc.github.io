@@ -7,7 +7,7 @@ date: 2024-03-14 16:00:00 +0900
 image: /assets/img/me.jpg
 ---
 
-## Seohyun Choi
+## **Seohyun Choi**
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="/assets/img/me.jpg" alt="Profile Picture" style="border-radius: 50%;" width="200">
