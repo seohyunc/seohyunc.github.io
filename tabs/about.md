@@ -14,8 +14,8 @@ image: /assets/img/me.jpg
   </div>
   <div style="flex: 3;">
   <h2><strong>Seohyun Choi</strong></h2>
-  세상에는 재밌는게 너무 많다. 배움은 나의 도파민.<br/>
       <ul>
+      <li>세상에는 재밌는게 너무 많다; 배움은 나의 도파민; 엄청 심심하면 공부함</li>
       <li><strong>Contact:</strong> choish91_gmail_com</li>
       <li><strong>Address:</strong> Suwon, Gyeonggi, South Korea</li>
     </ul>
