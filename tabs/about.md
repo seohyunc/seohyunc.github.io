@@ -57,7 +57,7 @@ image: /assets/img/me.jpg
 ## Awards
 - 2023 한국CDE학회 동계학술대회, 우수논문상, 한국CDE학회 (2023.02.10)
 - 제3회 발전 빅데이터 AI 경진대회: 과제B부문, 최우수상, 한국동서발전 (2021.12.28)
-- 2021 스마트공장 운영설계 전문 인력양성사업 성과발표회, 최우수상(산업통상자원부장관) (2021.12.10)
+- 2021 스마트공장우수논문경진대회, 최우수상(산업통상자원부장관) (2021.12.10)
 - Process Mining Case Competition of AP-BPM 2015, _Information Diffusion Process Analytics based on Bayesian Networks in Social Network Analysis_, Second-Prize Award (2015.06)
 
 ---
