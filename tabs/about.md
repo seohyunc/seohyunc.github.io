@@ -22,9 +22,10 @@ image: /assets/img/me.jpg
   </div>
 </div>
 
----
+
 
 ## Education
+---
 **Ph.D. Candidate** in Big Data Analytics, Kyung Hee University (03.2021-Present)  
 - sss
 
@@ -33,9 +34,9 @@ image: /assets/img/me.jpg
   
 **B.S.** in Industrial Management and Systems Engineering, Kyung Hee University (03.2010-02.2014)
 
----
 
 ## Experience
+---
 **Netmarble Corp.** Seoul, South Korea (02.2016-09.2018)
 - Business Intelligence Developer
   - Developed and reported KPIs and dashboards
@@ -47,22 +48,23 @@ image: /assets/img/me.jpg
   - Designed/developed machine learning models to predict paying users with AUC of 87%
   - Desgined, evaluated and reported 10 A/B tets of in-app marketing campaigns concurrently 
 
----
 
 ## Skills
+---
 - Python, MSSQL, Google BigQuery, Java, R, MicroStrategy MSTR
 
 ---
 
 ## Awards
+---
 - 2023 한국CDE학회 동계학술대회, 우수논문상, 한국CDE학회 (2023.02.10)
 - 제3회 발전 빅데이터 AI 경진대회: 과제B부문, 최우수상, 한국동서발전 (2021.12.28)
 - 2021 스마트공장우수논문경진대회, 최우수상(산업통상자원부장관) (2021.12.10)
 - Process Mining Case Competition of AP-BPM 2015, _Information Diffusion Process Analytics based on Bayesian Networks in Social Network Analysis_, Second-Prize Award (2015.06)
 
----
 
 ## Projects
+---
 - **현대NGV** 현대위아 빅데이터 캠퍼스 1~3기 과정 멘토
 - **LS전선** Digital Shadow를 위한 설비 고장진단 및 해석 AI 기술 개발
   - Duration: 2022.04-2023.03
