@@ -8,18 +8,9 @@ image: /assets/img/me.jpg
 ---
 
 ## **Seohyun Choi**
-<img style="
-border: 3px solid gold;
-border-radius: 7px;
--moz-border-radius: 7px;
--khtml-border-radius: 7px;
--webkit-border-radius: 7px;
-"
-src="/assets/img/me.jpg" align="center" width="200">
 
-<div class="circle-image">
-        <img src="/assets/img/me.jpg" alt="My Rectangular Image">
-    </div>
+<div class="circle-image"><img src="/assets/img/me.jpg" alt="My Rectangular Image"></div>
+
 <style>
 .circle-image {
     width: 200px;
