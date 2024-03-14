@@ -26,10 +26,10 @@ image: /assets/img/me.jpg
 
 ## Education
 ---
-_**Ph.D. Candidate**_ in Big Data Analytics, Kyung Hee University (03.2021-Present)  
-_**M.S.**_ in Industrial Management and Systems Engineering, Kyung Hee University (03.2014-02.2016)  
+**Ph.D. Candidate** in Big Data Analytics, Kyung Hee University (03.2021-Present)  
+**M.S.** in Industrial Management and Systems Engineering, Kyung Hee University (03.2014-02.2016)  
 &nbsp;&nbsp;&nbsp;&nbsp;(Thesis: A Process Mining Technique based on Bayesian Networks for Inference of Probabilistic Event Patterns)  
-**B.S.**_ in Industrial Management and Systems Engineering, Kyung Hee University (03.2010-02.2014)
+**B.S.** in Industrial Management and Systems Engineering, Kyung Hee University (03.2010-02.2014)
 
 
 ## Experience
