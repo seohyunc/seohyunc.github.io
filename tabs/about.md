@@ -21,6 +21,8 @@ image: /assets/img/me.jpg
   </div>
 </div>
 
+---
+
 ## Education
 **Ph.D. Candidate** in Big Data Analytics, Kyung Hee University (03.2021-Present)  
 - sss
@@ -30,6 +32,7 @@ image: /assets/img/me.jpg
   
 **B.S.** in Industrial Management and Systems Engineering, Kyung Hee University (03.2010-02.2014)
 
+---
 
 ## Experience
 **Netmarble Corp.** Seoul, South Korea (02.2016-09.2018)
@@ -43,14 +46,20 @@ image: /assets/img/me.jpg
   - Designed/developed machine learning models to predict paying users with AUC of 87%
   - Desgined, evaluated and reported 10 A/B tets of in-app marketing campaigns concurrently 
 
+---
+
 ## Skills
 - Python, MSSQL, Google BigQuery, Java, R, MicroStrategy MSTR
+
+---
 
 ## Awards
 - 2023 한국CDE학회 동계학술대회, 우수논문상, 한국CDE학회 (2023.02.10)
 - 제3회 발전 빅데이터 AI 경진대회: 과제B부문, 최우수상, 한국동서발전 (2021.12.28)
 - 2021 스마트공장 운영설계 전문 인력양성사업 성과발표회, 최우수상(산업통상자원부장관) (2021.12.10)
 - Process Mining Case Competition of AP-BPM 2015, _Information Diffusion Process Analytics based on Bayesian Networks in Social Network Analysis_, Second-Prize Award (2015.06)
+
+---
 
 ## Projects
 - **현대NGV** 현대위아 빅데이터 캠퍼스 1~3기 과정 멘토
@@ -62,6 +71,3 @@ image: /assets/img/me.jpg
   - Role: ...
 - **Netmarble Corp.**
   - 리니지2 레볼루션 일본, 페이트/그랜드오더, ...
-
-## Languages
-- Korean (Native), English
