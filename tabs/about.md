@@ -8,6 +8,7 @@ image: /assets/img/me.jpg
 ---
 
 ## Seohyun Choi
+![Desktop View](/assets/img/me.png)
 ---
 
 ### Education
