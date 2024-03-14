@@ -7,7 +7,7 @@ date: 2024-03-14 16:00:00 +0900
 image: /assets/img/me.jpg
 ---
 
-## Seohyun Choi
+## **Seohyun Choi**
 <img style="
 border: 3px solid gold;
 border-radius: 7px;
@@ -16,6 +16,24 @@ border-radius: 7px;
 -webkit-border-radius: 7px;
 "
 src="/assets/img/me.jpg" align="center" width="200">
+
+<div class="circle-image">
+        <img src="/assets/img/me.jpg" alt="My Rectangular Image">
+    </div>
+<style>
+.circle-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}.circle-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+}
+</style>
+
 <!-- ![Me](/assets/img/me.jpg) -->
 
 ---
