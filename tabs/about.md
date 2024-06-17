@@ -73,7 +73,7 @@ A South Korean game publishing company and ranked third in global mobile app pub
   - <u>Seohyun Choi</u> and Jae-Yoon Jung*, "Discovery of Probabilistic Information Process Based on Bayesian Networks", In Proc. of International Conference on Innovation and Management (IAM 2018), Jan 30-Feb 2, 2018.
   - <u>Seohyun Choi</u> and Jae-Yoon Jung*, "Information Diffusion Process Analytics based on Bayesian Networks in Social Network Analysis", Process Mining Case Competition of AP-BPM 2015, Jun 2015.
   - <u>Seohyun Choi</u>, Aekyung Kim, Dongmin Shin, and Jae-Yoon Jung*, "Discovery of Information Diffusion Process Based on Bayesian Belief Networks in Social Network Services", Poster in INFORMS Business Analytics & Operations Research (Analytics 2015), Apr 2015.
-- **Dometstic Conference**
+- **Domestic Conference**
   - 박재훈, 조은지, <u>최서현</u>, 정재윤, "트랜스포머 기반 한국어-한국수어 3D 포즈 시퀀스 변환", 한국CDE학회 동계학술대회, Feb 8-10, 2023.
   - 장동혁, <u>최서현</u>, 정재윤, "PCA 기반 실시간 설비 상태 시각화 및 진단 시스템", 한국CDE학회 동계학술대회, Feb 8-10, 2023.
   - 장동혁, <u>최서현</u>, 정재윤, "진동센서를 이용한 PCA 기반 설비 감시 시스템", 대한산업공학회 추계학술대회, Nov 4, 2022.
@@ -91,7 +91,7 @@ A South Korean game publishing company and ranked third in global mobile app pub
 ## **Awards**
 ---
 - 2023 한국CDE학회 동계학술대회, _트랜스포머 기반 한국어-한국수어 3D 포즈 시퀀스 변환_, 우수논문상, 한국CDE학회 (Feb 10, 2023)
-- 제3회 한국동서발전 EWP 발전 빅데이터 AI 경진대회, _(과제2) 복합화력 스팀터빈 계통 출력 및 성능 이상진단_, 최우수상(한국동서발전사장상), 한국동서발전 (Dec 28, 2021)
+- 제3회 한국동서발전 EWP 발전빅데이터 AI 경진대회, _(과제2) 복합화력 스팀터빈 계통 출력 및 성능 이상진단_, 최우수상(한국동서발전사장상), 한국동서발전 (Dec 28, 2021)
 - 2021 스마트공장우수논문경진대회, _AMR을 활용한 공장관리 무인화_, 최우수상(산업통상자원부장관상) (Dec 10, 2021)
 - Process Mining Case Competition of AP-BPM 2015, _Information Diffusion Process Analytics based on Bayesian Networks in Social Network Analysis_, Second-Prize Award (Jun, 2015)
 - 2013 대한산업공학회 추계학술대회 대학생프로젝트경진대회, _Opinion Mining을 위한 Twitter 기반 지역별 선호도 분석 및 시각화_, 장려상, 대한산업공학회 (Oct 15, 2013)
