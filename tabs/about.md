@@ -74,7 +74,7 @@ A South Korean game publishing company and ranked third in global mobile app pub
   - 리니지2 레볼루션 일본, 페이트/그랜드오더, 세븐나이츠 글로벌, ...
 
 
-## Publication
+## **Publication**
 ---
 - **International Conference**
   - Donghyuk Jang, <u>Seohyun Choi</u>, and Jae-Yoon Jung, "Fault Diagnosis and Visualization Using Multi-class Mahalanobis-Taguchi Systems", In Proc. of 17th International Conference on Innovative Computing, Information and Control (ICICIC 2023), Kumamoto, Japan, Aug 29-31, 2023.
