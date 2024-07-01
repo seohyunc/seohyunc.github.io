@@ -56,9 +56,7 @@ A South Korean game publishing company and ranked third in global mobile app pub
   - Role: 실시간 설비 고장진단 모니터링 시스템 개발
 - **Samsung Electronics** Cluster형 FAB을 위한 동간 반송시간 고정밀 예측 기술 개발
   - Duration: Apr 15-Dec 31, 2021
-  - Role: 주요 변수 추출 및 ML 기반 예측 모형 개발
-- **Netmarble Corp.**
-  - 리니지2 레볼루션 일본, 페이트/그랜드오더, 세븐나이츠 글로벌, ...
+  - Role: 주요 변수 추출 및 ML 기반 예측 모형 개발.
 
 
 ## **Publication**
