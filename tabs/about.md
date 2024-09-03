@@ -50,20 +50,24 @@ A South Korean game publishing company and ranked third in global mobile app pub
 
 ## **Projects**
 ---
-- **Hyundai NGV** 현대위아 빅데이터 캠퍼스 1~3기 과정 멘토
+- **Hyundai NGV** 현대위아 빅데이터 캠퍼스 1~4기 과정 멘토
+- **Hyundai NGV** 현대자동차 제조솔루션본부 데이터-부트캠퍼스 멘토
+- **Hyundai NGV** 현대자동차 제조솔루션본부 설비보전 데이터 분석 강의
+  - Duration: Jul 1-5, 2024
+  - Role: 코드 실습 강의
 - **LS Cable & System** Digital Shadow를 위한 설비 고장진단 및 해석 AI 기술 개발
   - Duration: Apr, 2022- Mar, 2023
   - Role: 실시간 설비 고장진단 모니터링 시스템 개발
 - **Samsung Electronics** Cluster형 FAB을 위한 동간 반송시간 고정밀 예측 기술 개발
   - Duration: Apr 15-Dec 31, 2021
-  - Role: 주요 변수 추출 및 ML 기반 예측 모형 개발.
+  - Role: 주요 변수 추출 및 ML 기반 예측 모형 개발
 
 
 ## **Publication**
 ---
 - **International Journal**
   - (Submitted) Donghyuk Jang, <u>Seohyun Choi</u>, and Jae-Yoon Jung*, "Fault Monitoring and Visualization System of Integrating Multiclass Mahalanobis-Taguchi Systems and Principal Component Analysis", EAAI, under revision 240501. (SCIE, IF=8.0, 5.0%, MDE)
-  - (Submitted) <u>Seohyun Choi</u>, Young Ha Joo, Hoonseok Park, Younkook Kang, Ri Choe, and Jae-Yoon Jung*, "Wafer Delivery Time Prediction for Interline Transfers in a Semiconductor Fab Using Machine Learning: A Case Study", RCIM, under revision 240416. (SCIE, IF=10.4, 5.8%(7/110), CS/IA)
+  - (Submitting) <u>Seohyun Choi</u>, Young Ha Joo, Hoonseok Park, Younkook Kang, Ri Choe, and Jae-Yoon Jung*, "Wafer Delivery Time Prediction for Interline Transfers in a Semiconductor Fab Using Machine Learning: A Case Study"
 - **International Conference**
   - <u>Seohyun Choi</u>, Young Ha Joo, Hoonseok Park, Younkook Kang, Ri Choe, and Jae-Yoon Jung*, "Wafer Delivery Time Prediction for Interline Transfers in a Semiconductor Fab Using Machine Learning: A Case Study", In Proc. of the 33rd Flexiable Automation and Intelligent Manufacturing (FAIM 2024), Taichung, Taiwan, Jun 23-26, 2024.
   - Donghyuk Jang, <u>Seohyun Choi</u>, and Jae-Yoon Jung*, "Fault Diagnosis and Visualization Using Multi-class Mahalanobis-Taguchi Systems", In Proc. of 17th International Conference on Innovative Computing, Information and Control (ICICIC 2023), Kumamoto, Japan, Aug 29-31, 2023.
