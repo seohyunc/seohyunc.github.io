@@ -67,7 +67,7 @@ A South Korean game publishing company and ranked third in global mobile app pub
 ---
 - **International Journal**
   - (Submitted) Donghyuk Jang, <u>Seohyun Choi</u>, and Jae-Yoon Jung*, "Fault Monitoring and Visualization System of Integrating Multiclass Mahalanobis-Taguchi Systems and Principal Component Analysis", EAAI, under revision 240501. (SCIE, IF=8.0, 5.0%, MDE)
-  - (Submitting) <u>Seohyun Choi</u>, Young Ha Joo, Hoonseok Park, Younkook Kang, Ri Choe, and Jae-Yoon Jung*, "Wafer Delivery Time Prediction for Interline Transfers in a Semiconductor Fab Using Machine Learning: A Case Study"
+  - (To be submitted) <u>Seohyun Choi</u>, Young Ha Joo, Hoonseok Park, Younkook Kang, Ri Choe, and Jae-Yoon Jung*, "Wafer Delivery Time Prediction for Interline Transfers in a Semiconductor Fab Using Machine Learning: A Case Study"
 - **International Conference**
   - <u>Seohyun Choi</u>, Young Ha Joo, Hoonseok Park, Younkook Kang, Ri Choe, and Jae-Yoon Jung*, "Wafer Delivery Time Prediction for Interline Transfers in a Semiconductor Fab Using Machine Learning: A Case Study", In Proc. of the 33rd Flexiable Automation and Intelligent Manufacturing (FAIM 2024), Taichung, Taiwan, Jun 23-26, 2024.
   - Donghyuk Jang, <u>Seohyun Choi</u>, and Jae-Yoon Jung*, "Fault Diagnosis and Visualization Using Multi-class Mahalanobis-Taguchi Systems", In Proc. of 17th International Conference on Innovative Computing, Information and Control (ICICIC 2023), Kumamoto, Japan, Aug 29-31, 2023.
