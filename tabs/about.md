@@ -16,8 +16,8 @@ image: /assets/img/me.jpg
   <h2><strong>Seohyun Choi</strong></h2>
       <ul>
       <li>세상에는 재밌는 게 너무 많다; 배움은 나의 도파민; 엄청 심심하면 공부함</li>
-      <li><strong>Hobbies:</strong> Football (8y+), Tennis (1y-)</li>
-      <li><strong>Contact:</strong> choish91_gmail_com</li>
+      <li><strong>Hobbies:</strong> Football (9y), Tennis (10m)</li>
+      <li><strong>Contact:</strong> choish91_at_gmail_com</li>
       <li><strong>Address:</strong> Hwaseong, Gyeonggi, South Korea</li>
     </ul>
   </div>
@@ -54,13 +54,13 @@ A South Korean game publishing company and ranked third in global mobile app pub
 - **Hyundai NGV** 현대자동차 제조솔루션본부 데이터-부트캠퍼스 멘토
 - **Hyundai NGV** 현대자동차 제조솔루션본부 설비보전 데이터 분석 강의
   - Duration: Jul 1-5, 2024
-  - Role: 코드 실습 강의
+  - Role: 머신러닝 코드 실습 강의
 - **LS Cable & System** Digital Shadow를 위한 설비 고장진단 및 해석 AI 기술 개발
   - Duration: Apr, 2022- Mar, 2023
-  - Role: 실시간 설비 고장진단 모니터링 시스템 개발
+  - Role: 설비 고장진단 실시간 모니터링 시스템 개발
 - **Samsung Electronics** Cluster형 FAB을 위한 동간 반송시간 고정밀 예측 기술 개발
   - Duration: Apr 15-Dec 31, 2021
-  - Role: 주요 변수 추출 및 ML 기반 예측 모형 개발
+  - Role: 주요 변수 추출 및 머신러닝 기반 반송시간 예측 모형 개발
 
 
 ## **Publication**
