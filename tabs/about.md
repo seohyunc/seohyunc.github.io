@@ -50,11 +50,15 @@ A South Korean game publishing company and ranked third in global mobile app pub
 
 ## **Projects**
 ---
+- **SK Hynix** 디지털 트윈 환경 구축을 위한 Bottleneck 공정 관리방안 연구
+  - Duration: Oct 1, 2024-Present
+- **KEIT** 생성형 AI 및 스몰데이터 기반 온디바이스 AI 품질 검사 최적화 기술 개발
+  - Duration: Jul 1, 2024-Present
 - **Hyundai NGV** 현대위아 빅데이터 캠퍼스 1~4기 과정 멘토
 - **Hyundai NGV** 현대자동차 제조솔루션본부 데이터-부트캠퍼스 멘토
 - **Hyundai NGV** 현대자동차 제조솔루션본부 설비보전 데이터 분석 강의
   - Duration: Jul 1-5, 2024
-  - Role: 머신러닝 코드 실습 강의
+  - Role: 설비보전을 위한 머신러닝 코드 실습 강의
 - **LS Cable & System** Digital Shadow를 위한 설비 고장진단 및 해석 AI 기술 개발
   - Duration: Apr, 2022- Mar, 2023
   - Role: 설비 고장진단 실시간 모니터링 시스템 개발
